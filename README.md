@@ -20,7 +20,7 @@ To run this application, you need to have the following installed on your system
 ## Installation
 
 1. Clone the repository:
-git clone https://github.com/SahuKapil/Basic-Form
+git clone https://github.com/SahuKapil/My-First-Form
 
 ## Usage
 
